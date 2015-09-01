@@ -1,0 +1,21 @@
+Alt+mouse to manipulate 3d viewport.  Alt+left click and drag to rotate from center of view.  Alt+middle mouse to pan.  Alt+right click to zoom (scroll wheel also does this).
+
+Create maya project with File > New Scene.
+
+Recommended to use .ma extension because the file transfers most appropriately.
+
+To transform objects, we use the scale or rotate tools.  
+
+There are a some modes in the viewport to visualize the objects with different lenses.  The full shaded is the standard viewing mode.  This allows us to see a more normal, real-to-life version of the object.  Without shading we can see the polygonal shape.  We can also hold down on the right mouse button after clicking an object to open a window with more viewing options.  Edge allows me to select particular edges of a polygon.  Face allows me to select that particular flat pane.  And vertex allows me to select the edge intersections. 
+
+Object mode is manipulating various objects I see in the viewport.  When I select an object, I an entering into component mode.  Meaning, I am now able to select particular components of that object.  Pressing F8 will also toggle me between modes.
+
+To access an object I just click on it.
+
+To group objects, we can shift+click various objects and then click combine.
+
+The hotbox can be accessed by pressing and holding the spacebar.  This is a shortcut method of accessing various menu/options/functions.
+
+
+
+
