@@ -1,0 +1,6 @@
+Alt+mouse to manipulate 3d viewport.  Alt+left click and drag to rotate from center of view.  Alt+middle mouse to pan.  Alt+right click to zoom (scroll wheel also does this).
+
+Create maya project with File > New Scene.
+
+Recommended to use .ma extension because the file transfers most appropriately. 
+
